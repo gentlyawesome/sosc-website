@@ -16,17 +16,16 @@ const Footer = ({ siteTitle }) => (
         </div>
         <div className="column">
           <p>
-            <strong>Sahyadri Open-Source Community</strong><br/>
-            Sahyadri College of Engineering and Management,
-            Adyar, Mangalore - 575007 IN<br/><br/>
-            sosc@sahyadri.edu.in<br/>
-            +91 76248 28176
+            <strong>Business Angels Web Development Company</strong><br/>
+            168 Country Club Village 
+            Baguio City, Philippines, 2600<br/><br/>
+            businessangelsco@gmail.com<br/>
           </p>
         </div>
       </div>
     </div>
     <div className="copyright-area">
-      <p>SOSC © { new Date().getFullYear() }</p>
+      <p>Business Angels Web Development Company © 2017</p>
     </div>
   </footer>
 )

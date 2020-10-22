@@ -9,10 +9,10 @@ const Header = ({ siteTitle }) => (
     <Helmet
       title={GatsbyConfig.siteMetadata.title}
       meta={[
-        { name: 'description', content: 'Sahyadri Open-Source Community' },
+        { name: 'description', content: 'Business Angels Web Development Company' },
         {
           name: 'keywords',
-          content: 'Community, OpenSource, SOSC, sahyadri, student',
+          content: 'Business Angel, Web Development, Web Developer Philippines',
         },
       ]}
       link={[{ rel: 'shortcut icon', type: 'image/ico', href: `${favicon}` }]}

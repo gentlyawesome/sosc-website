@@ -1,8 +1,8 @@
 {
-  "name": "SOSC",
-  "description": "The official sosc website",
+  "name": "BusinessAngel",
+  "description": "Business Angels Web Development Company",
   "version": "1.0.0",
-  "author": "Musthaq Ahamad <musthu.gm@gmail.com>",
+  "author": "Business Angels Web Development Company <businessangelsco@gmail.com>",
   "dependencies": {
     "@babel/core": "^7.10.2",
     "babel-loader": "^8.1.0",
