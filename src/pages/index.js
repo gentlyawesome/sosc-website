@@ -16,9 +16,7 @@ const IndexPage = props => (
               alt="sosc logo"
             />
             <p className="sosc-header">
-              Sahyadri
-              <br />
-              Open Source Community
+              Business Angels Web Development Company
             </p>
             <p>
               A community driven by tech enthusiasts and open-source
