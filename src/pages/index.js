@@ -19,16 +19,20 @@ const IndexPage = props => (
               Business Angels Web Development Company
             </p>
             <p>
-              A community driven by tech enthusiasts and open-source
-              contributors, to help young students to be part of the open-source
-              ecosystem by providing training and skill development.
+              We are a one-stop automated solution for your trade and industry. Depending on the size and field of your business, we have different products and services to meet your requirements.
             </p>
+
+            <p>
+              We provide optimum and customized solutions made for your business. We are focusing exclusively on high quality and cost-effective software development and implementation of services.
+            </p>
+            {/*
             <a
               href="http://bit.ly/soscmbr"
               className="btn-hero-green"
             >
               Become a member
             </a>
+            */}
           </div>
           <div>
             <Img
@@ -47,16 +51,12 @@ const IndexPage = props => (
             alt="hero image"
           />
           <div className="hero-texts">
-            <p className="hero-header">Explore clubs and Activities</p>
+            <p className="hero-header">Our Mission</p>
             <div className="dash" />
             <p>
-              SOSC is a conglomeration of clubs and individuals who contribute
-              to the community by helping us conduct events and activities.
-              there are numerous clubs and experts who help shape the community
-              to be pro-active. Mozilla Campus Clubs, Developer Students clubs,
-              and the GitHub Campus Expert are to name a few.
+              To achieve the reputation of a quality, high standard & reliable solution & service Provider Company in the IT industry.
             </p>
-            <Link className="btn-hero-green" to="/clubs">Learn More →  </Link>
+            {/*<Link className="btn-hero-green" to="/clubs">Learn More →  </Link> */}
           </div>
         </section>
       </div>
@@ -64,15 +64,10 @@ const IndexPage = props => (
       <div className="container">
         <section className="hero-section3">
           <div className="hero-texts">
-            <p className="hero-header">Get Trained by Experts</p>
+            <p className="hero-header">Our Vision</p>
             <div className="dash" />
             <p>
-              SOSC is all about helping each other to learn and improve, we
-              conduct workshops and trainings led by speakers from other
-              technical communities, and student experts. Keeping up to date
-              with latest technologies and learning new things is what most of
-              love. Here is your chance to attend workshops, training and even
-              host non-profit events to help others.
+              Achieve 100% customer satisfaction by delivering quality products and services at an affordable cost. Our forward vision is to strive to become an entity in technology-based corporate solutions. We also believe that for our scope of improvisation – the sky is the limit, we are always ready to take our achievements to the next level. We are growing and would like to remain on the growing streak.
             </p>
           </div>
           <Img
@@ -92,18 +87,19 @@ const IndexPage = props => (
             />
           </div>
           <div className="hero-texts">
-            <p className="hero-header">Get Connected !</p>
+            <p className="hero-header">Join Us!</p>
             <div className="dash" />
             <p>
-              Meet people with similar interest to work together on projects and
-              host events to build a better collaborative environment. We are
-              more than 100 members with interests on various fields of
-              technology here to know each other and get connected. Meet our
-              members to know more about us and build something cool!
+              Be part of our team and help us mold the future. 
+              Be part of our development team and hone your skills and provide value to companies around the world
             </p>
-            <Link to="/team" className="btn-hero-green">
-              Learn More
-            </Link>
+            {
+              /*
+                <Link to="/team" className="btn-hero-green">
+                  Learn More
+                </Link>
+              */
+            }
           </div>
         </section>
       </div>

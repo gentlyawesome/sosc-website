@@ -27,6 +27,7 @@ const Header = ({ siteTitle }) => (
               Home
             </Link>
           </li>
+          {/* 
           <li>
             <Link to="/events" exact="true" activeClassName="active">
               Events
@@ -42,6 +43,7 @@ const Header = ({ siteTitle }) => (
               Team
             </Link>
           </li>
+          */}
         </ul>
       </div>
     </div>

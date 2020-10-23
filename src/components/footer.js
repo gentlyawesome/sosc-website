@@ -5,14 +5,12 @@ const Footer = ({ siteTitle }) => (
     <div className="container">
       <div className="info-area">
         <div className="column">
-          <a href="https://github.com/so-sc">GitHub</a>
-          <a href="https://instagram.com/sosc.sahyadri">Instagram</a>
-          <a href="https://linkedin.com/company/sosc-sahyadri">LinkedIn</a>
-          <a href="https://twitter.com/sahyadri_osc">Twitter</a>
+          <a href="https://www.facebook.com/businessangelsweb">Facebook</a>
+          <a href="https://www.linkedin.com/company/business-angels-web-development-company">LinkedIn</a>
         </div>
         <div className="column">
-          <a href="https://github.com/so-sc/code-of-conduct">Community Guidelines</a>
-          <a href="https://github.com/so-sc/code-of-conduct">Code of Conduct</a>
+          <a href="#">Twitter</a>
+          <a href="https://www.instagram.com/businessangels.posangel/">Instagram</a>
         </div>
         <div className="column">
           <p>

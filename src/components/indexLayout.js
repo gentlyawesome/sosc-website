@@ -7,7 +7,7 @@ import '../sass/index.scss'
 
 const Layout = ({ children }) => (
 	<div id="flexContainer">
-		<Header siteTitle="Business Angel"/>
+		<Header siteTitle="Business Angels"/>
 		<main>
 			{children}
 		</main>
