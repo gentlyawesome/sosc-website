@@ -87,11 +87,11 @@ const IndexPage = props => (
             />
           </div>
           <div className="hero-texts">
-            <p className="hero-header">Join Us!</p>
+          <p className="hero-header">Hire us, Today!</p>
             <div className="dash" />
             <p>
-              Be part of our team and help us mold the future. 
-              Be part of our development team and hone your skills and provide value to companies around the world
+              We can help you with your needs and provide quality service.  
+              Just email us at businessangelsco@gmail.com
             </p>
             {
               /*
